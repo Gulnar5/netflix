@@ -1,4 +1,3 @@
-Əlbəttə! Aşağıda **Netflix Power BI** layihənizin **README** hissəsinin daha səliqəli və strukturlu formada hazırlanmış versiyasını təqdim edirəm:
 
 ---
 
