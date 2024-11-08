@@ -35,6 +35,9 @@ The Power BI dashboard is divided into **two main pages**: **Overview** and **Ac
 
 ### Page 1: Overview
 
+![Screenshot 2024-11-08 134842](https://github.com/user-attachments/assets/12dc2424-dd73-4427-94dc-06284627d972)
+
+
 This page provides a general overview of Netflix's catalog and key trends. Key components include:
 
 - **Slicer (Film Name)**: 
