@@ -61,6 +61,10 @@ This page provides a general overview of Netflix's catalog and key trends. Key c
 
 ### Page 2: Account
 
+
+![Screenshot 2024-11-08 134859](https://github.com/user-attachments/assets/165d9ad0-4b6a-421a-a97e-00c43575dac7)
+
+
 This page provides more detailed insights into the content trends on Netflix. Key components include:
 
 - **Pie Chart (Percentage of Films by Type)**:
